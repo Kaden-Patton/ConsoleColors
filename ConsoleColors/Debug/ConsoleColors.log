@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\notaz\source\repos\ConsoleColors\ConsoleColors\main.cpp(11,9): warning C4101: 'mem': unreferenced local variable
+  memory.cpp
+  output.cpp
+  Generating Code...
+C:\Users\notaz\source\repos\ConsoleColors\ConsoleColors\memory.cpp(32): warning C4715: 'memory::getProcess': not all control paths return a value
+  ConsoleColors.vcxproj -> C:\Users\notaz\source\repos\ConsoleColors\Debug\ConsoleColors.exe
